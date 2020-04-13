@@ -1,0 +1,14 @@
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
+
+##AceleraDEV Files
+output.json
+stdout.txt
+
+# End of https://www.gitignore.io/api/firebase
