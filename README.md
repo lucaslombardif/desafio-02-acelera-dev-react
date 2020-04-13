@@ -1,10 +1,15 @@
+<h1 align="center"> 
+      <img alt="Twitter" 
+      src="https://github.com/lucaslombardif/instarocket/blob/master/frontend/src/assets/logo.svg?sanitize=true" />
+</h1> 
+
 # Mobile First: Instagram
   
 ## Objetivo:
 Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5** e **CSS3**.
 
 > **Preview:**
-> [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public)
+> [Instagram Codenation](https://aceleradev02.lucaslombardif.codes/)
 
 ## Tópicos:
 Neste desafio, você vai praticar os seus conhecimentos em: 
